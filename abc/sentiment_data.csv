@@ -1,0 +1,8 @@
+text,sentiment
+"This is a great movie!",positive
+"I hated it.",negative
+"The service was excellent.",positive
+"It was terrible.",negative
+"Meh, it was okay.",neutral
+"I loved it!",positive
+"It was awful.",negative
